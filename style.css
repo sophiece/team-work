@@ -1,1 +1,7 @@
-style
+body{
+    background-image: url(BG.png);
+    background-repeat: no-repeat;
+    background-size: contain;}
+div{margin-top: 121px;
+    margin-left: 538px;
+    margin-right: 537;}
